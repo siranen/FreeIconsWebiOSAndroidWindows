@@ -1,9 +1,9 @@
-# FreeIconsWebiOSAndroidWindows
+# Free Collection For Your Projects
 Collection of 12,000+ beautifully crafted, delightful, and easy to use Icons in your Web, Windows, Android, and iOS projects
 http://siranen.github.io/FreeIconsWebiOSAndroidWindows/
 
 
-## Contents of Set's
+## Contents of All Set's
 ***                              	    
 ### [All in One Icon Set (Include icons for Windows, Web, iOS and Android) ](https://github.com/siranen/FreeIconsWebiOSAndroidWindows/releases/tag/1)	
 ### Windows Icons Set (Include icons only for Windows Apps Icons)        
