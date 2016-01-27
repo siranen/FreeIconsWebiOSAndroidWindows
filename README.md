@@ -6,13 +6,13 @@ http://siranen.github.io/FreeIconsWebiOSAndroidWindows/
 ## Contents of All Set's
 ***                              	    
 ### [All in One Icon Set (Include icons for Windows, Web, iOS and Android) ](https://github.com/siranen/FreeIconsWebiOSAndroidWindows/releases/tag/1)	
-### Windows Icons Set (Include icons only for Windows Apps Icons)        
+### [Windows Icons Set (Include icons only for Windows Apps Icons)](https://github.com/siranen/FreeIconsWebiOSAndroidWindows/blob/github.com/siranen/FreeIconsWebiOSAndroidWindows/Windows.rar)	       
 <a href="http://www.iconswindows.com/image/s3.jpg" target="_blank"><img src="http://www.iconswindows.com/image/s3.jpg" border="0" alt=""></a>
-### Android Icons Set (Include icons only for Android Apps Icons)
+### [Android Icons Set (Include icons only for Android Apps Icons)](https://github.com/siranen/FreeIconsWebiOSAndroidWindows/blob/github.com/siranen/FreeIconsWebiOSAndroidWindows/Android.rar)	
 <a href="http://tinypic.com?ref=34qtg9h" target="_blank"><img src="http://i65.tinypic.com/34qtg9h.jpg" border="0" alt="Image and video hosting by TinyPic"></a>	
-### iOS Icons Set (Include icons only for iOS Apps Icons)
+### [iOS Icons Set (Include icons only for iOS Apps Icons)](https://github.com/siranen/FreeIconsWebiOSAndroidWindows/blob/github.com/siranen/FreeIconsWebiOSAndroidWindows/iOS.rar)
 <a href="" target="_blank"><img src="https://developer.apple.com/library/ios/qa/qa1686/Art/qa1686_assetcatalog_3.png" border="0" alt="Image and video hosting by TinyPic"></a>	
-### Web Icons Set (Include icons only for Web Apps Icons)	
+### [Web Icons Set (Include icons only for Web Apps Icons)](https://github.com/siranen/FreeIconsWebiOSAndroidWindows/blob/github.com/siranen/FreeIconsWebiOSAndroidWindows/Web.rar)	
 <a href="http://freedesignfile.com/upload/2014/04/800-Small-fine-web-media-icons-set.jpg" target="_blank"><img src="http://freedesignfile.com/upload/2014/04/800-Small-fine-web-media-icons-set.jpg" border="0" alt="WEB"></a>	
 ***
 ## Icons for the web
