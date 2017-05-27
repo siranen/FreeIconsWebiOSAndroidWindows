@@ -1,4 +1,7 @@
 # Free Collection For Your Projects
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bc8432959b914e88ac1f6c14855e8b9c)](https://www.codacy.com/app/siranen/FreeIconsWebiOSAndroidWindows?utm_source=github.com&utm_medium=referral&utm_content=siranen/FreeIconsWebiOSAndroidWindows&utm_campaign=badger)
+
 Collection of 12,000+ beautifully crafted, delightful, and easy to use Icons in your Web, Windows, Android, and iOS projects
 http://siranen.github.io/FreeIconsWebiOSAndroidWindows/
 
